@@ -1,2 +1,3 @@
 Test case 1: valid login credentials
 наденька молодец!!
+Test case 3: verify password mask icon
