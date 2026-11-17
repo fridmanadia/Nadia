@@ -1,1 +1,4 @@
 *.log
+*.log
+temp/
+secret_passwords.txt
