@@ -1,1 +1,4 @@
-This is text from the MASTER branch
+
+=======
+This is text from the feature branch
+>>>>>>> feature-conflict
