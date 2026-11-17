@@ -1,1 +1,1 @@
-First stable version
+This is text from the MASTER branch
